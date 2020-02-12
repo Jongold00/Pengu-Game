@@ -403,7 +403,7 @@ Rigidbody2D:
   m_Simulated: 1
   m_UseFullKinematicContacts: 0
   m_UseAutoMass: 0
-  m_Mass: 1
+  m_Mass: 0.785614
   m_LinearDrag: 0
   m_AngularDrag: 0.05
   m_GravityScale: 1
@@ -429,6 +429,7 @@ MonoBehaviour:
   jumpPow: 100
   swimSpeed: 200
   maxSwimSpeed: 5
+  maxVel: 8
   rgdb: {fileID: 872450226}
 --- !u!212 &872450228
 SpriteRenderer:
