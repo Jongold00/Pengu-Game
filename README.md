@@ -1,2 +1,2 @@
 # PenguPuzzler
- Puzzle Game hwere the player plays as a penguin
+ Puzzle Game where the player plays as a penguin
